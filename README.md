@@ -1,5 +1,6 @@
 # deep_learning
-「EMNIST_classification.ipynb」・・・FCL (Fully Connected Layer) and CNN apllicaiton to EMNIST classification
+「EMNIST_classification.ipynb」：
+手書きアルファベット文字の判別テスト
 
 # Python
 
