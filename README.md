@@ -1,7 +1,7 @@
 # deep_learning
 「EMNIST_classification.ipynb」：
 
-【概要】
+【概要】  
 EMNIST判別の正解率を最適化する(目標95%程度)
 
 【データセット】
