@@ -20,7 +20,7 @@
 【概要】  
 　無線機のDA値をパラメータとして振ったときのパワー計自動測定ツール  
 ***
-![ツール画面](https://github.com/user-attachments/assets/f06f4aa9-8e02-486a-8aa7-20d1e52d8857)
+![キャプチャ](https://github.com/user-attachments/assets/9dfc05cf-7ff9-4fdc-b639-4981e0c9d831)
 ***
 「qc20241001.py」・・・メインコード  
 「func_qc20241001.py」・・・関数リスト  
