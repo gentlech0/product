@@ -17,19 +17,15 @@
 　● CNN層を用いた場合 = 94.8%  
   
 # Python  
-「qc20241001.py」・・・メインコード  
-「func_qc20241001.py」・・・関数リスト  
-<br>
 【概要】  
 　無線機のDA値をパラメータとして振ったときのパワー計自動測定ツール  
+***
+![ツール画面](https://github.com/user-attachments/assets/f06f4aa9-8e02-486a-8aa7-20d1e52d8857)
+***
+「qc20241001.py」・・・メインコード  
+「func_qc20241001.py」・・・関数リスト  
 <br>
 【内容】  
 　● 「Flet」・・・UIに使用  
 　● 「serial」・・・シリアル通信による無線機の制御に使用  
 　● 「pyvisa」・・・パワー計制御に使用
-<br>
-【メイン画面】
-<br>
-***
-![ツール画面](https://github.com/user-attachments/assets/f06f4aa9-8e02-486a-8aa7-20d1e52d8857)
-***
