@@ -27,3 +27,5 @@
 　● 「Flet」・・・UIに使用  
 　● 「serial」・・・シリアル通信による無線機の制御に使用  
 　● 「pyvisa」・・・パワー計制御に使用
+
+![ツール画面](https://github.com/user-attachments/assets/f06f4aa9-8e02-486a-8aa7-20d1e52d8857)
