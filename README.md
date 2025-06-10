@@ -8,24 +8,3 @@
 
 ## ④無線機のコマンド制御による測定自動化ツール作成 (標準化済み)
 
-「EMNIST_classification.ipynb」：  
-
-【概要】  
-　EMNIST判別の正解率を最適化する(目標95%程度)  
-<br>
-
-  
-# Python  
-「qc20241001.py」・・・メインコード  
-「func_qc20241001.py」・・・関数リスト  
-<br>
-【概要】  
-　無線機のDA値をパラメータとして振ったときのパワー計自動測定ツール  
-<br>
-【内容】  
-　● 「Flet」・・・UIに使用  
-　● 「serial」・・・シリアル通信による無線機の制御に使用  
-　● 「pyvisa」・・・パワー計制御に使用
-***
-![キャプチャ](https://github.com/user-attachments/assets/9dfc05cf-7ff9-4fdc-b639-4981e0c9d831)
-***
