@@ -1,6 +1,7 @@
 ## トップページ
 
-<a href "https://github.com/yosuke999/product/blob/images/Untitled.png"></a>
+<!-- <a href "https://github.com/yosuke999/product/blob/images/Untitled.png"></a> -->
+<img src="https://github.com/yosuke999/product/blob/images/Untitled.png" alt="エビフライトライアングル" title="サンプル">
 
 ### ① 機械学習を用いた回路設計定数の最適化 (PoC 段階)
 
