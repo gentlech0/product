@@ -21,6 +21,11 @@
 
 <img src="https://github.com/yosuke999/product/blob/images/BPF.png" alt="バンドパスフィルタ" title="バンドパスフィルタ">
 
+### 【設計目標】
+
+- 400MHzバージョンの定数をスタートとし、450MHzバージョンを設計する
+
+<img src="https://github.com/yosuke999/product/blob/images/%E8%A8%AD%E8%A8%88%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF.png" alt="LightGBM + Optuna" title="LightGBM + Optuna">
 
 
 【仕様】  
