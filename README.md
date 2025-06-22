@@ -19,7 +19,7 @@
 <img src="https://github.com/yosuke999/product/blob/images/%E8%A8%AD%E8%A8%88%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF2.png" style="width: 60%; height: auto" alt="LightGBM + Optuna" title="LightGBM + Optuna">
 
 ### ・LightGBM + Optunaによって、設計目標を満たす定数を選定できた
-### ・ 17部品中、寄与度BEST3のみ最適化したため、改善の予知が大いにある
+### ・ 17部品中、3部品の最適化で目標を達成したため、改善の予知が大いにある
 
 ---------------------------------------
 
