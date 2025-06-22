@@ -16,7 +16,7 @@
 
 ### 【結果】
 
-<img src="https://github.com/yosuke999/product/blob/images/%E8%A8%AD%E8%A8%88%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF2.png" style="width: 60%; height: auto" alt="LightGBM + Optuna" title="LightGBM + Optuna">
+<img src="https://github.com/yosuke999/product/blob/images/%E8%A8%AD%E8%A8%88%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF2.png" style="width: 20%; height: auto" alt="LightGBM + Optuna" title="LightGBM + Optuna">
 
 
 
