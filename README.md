@@ -12,24 +12,13 @@
 ### ・ この方法では、探索が設計者の技量に依らず最適化することができる
 ### ・ 下図緑線で囲った「受信回路のバンドパスフィルタ」を最適化する
 
-### 【動作】
-
-1. 他無線機からの信号をアンテナが捉える
-2. アンプで希望波(例:400MHz)を増幅し、フィルタでそれ以外を減衰させる
-3. 後段で別周波数を掛け合わせ、周波数を段階的に50MHz、150kHzに落とす<br>
-これは最終的に音声(<3kHz)を取り出すためのステップである
-4. このとき、妨害波(300MHz)が希望波と混ざるためフィルタで低減する必要がある
-
 <img src="https://github.com/yosuke999/product/blob/images/BPF2.png" alt="バンドパスフィルタ" title="バンドパスフィルタ">
 
-### 【設計目標】
-
-- ゲイン：同等、イメージ：50dB以上(イメージ周波数は妨害波(300MHz)のこと)
-- 400MHzバージョンの定数をスタートとし、450MHzバージョンを設計する
-
-<img src="https://github.com/yosuke999/product/blob/images/%E8%A8%AD%E8%A8%88%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF.png" alt="LightGBM + Optuna" title="LightGBM + Optuna">
-
 ### 【結果】
+
+<img src="https://github.com/yosuke999/product/blob/images/%E8%A8%AD%E8%A8%88%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF2.png" alt="LightGBM + Optuna" title="LightGBM + Optuna">
+
+
 
 - LightGBM + Optunaによって、設計目標を満たす定数を選定できた
 - 17部品中、寄与度BEST3のみ最適化したため、改善の予知を残している
