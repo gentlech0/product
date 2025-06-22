@@ -20,7 +20,7 @@
 これは最終的に音声(<3kHz)を取り出すためのステップである
 4. このとき、妨害波(300MHz)が希望波と混ざるためフィルタで低減する必要がある
 
-<img src="https://github.com/yosuke999/product/blob/images/BPF.png" alt="バンドパスフィルタ" title="バンドパスフィルタ">
+<img src="https://github.com/yosuke999/product/blob/images/BPF2.png" alt="バンドパスフィルタ" title="バンドパスフィルタ">
 
 ### 【設計目標】
 
