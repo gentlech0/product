@@ -1,9 +1,7 @@
-# Kaggle tutorial
+## タイタニック生存者予測
 
-## タイタニックコンペ
-
-### 01-Titanic_tuorial.ipynb
-書籍のコードコピー
-
-### 02_Titanic_my_arrange.ipynb
-01にアレンジを加えたコード
+### 【Kaggle チュートリアル (2025年9月13日時点)】
+|  No. | タイトル | 説明 |
+|------|-----|---|
+| 01   | 01-Titanic_tuorial   | 書籍のコード   |
+| 02   | 02_Titanic_my_arrange    | 01をアレンジ   |
