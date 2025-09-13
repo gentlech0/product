@@ -1,8 +1,8 @@
-### 【Kaggle チュートリアル (2025年9月13日時点)】
+### 【Kaggle チュートリアル】
 |  No. | タイトル | 種類 | Public LB | 1st Place | 順位 |
 |------|-----|---|---|---|---|
 | 01   | タイタニック生存者予測   | テーブル   | 0.79904  | 1.00000  | Unranked/13278   |
 | 02   | 賃貸価格予測    | テーブル   | 0.12215  | 0.00003  | Unranked/4040   |
-| 03   | MNIST数字分類    | テーブル   | 0.95753  | 1.00000  | Unranked/988   |
-| 04   | MNIST(自習)    | テーブル   | Nan   | Nan   | Nan   | Nan   |
-| 05   | EMNIST(自習)    | テーブル   | Nan   | Nan   | Nan   | Nan   |
+| 03   | MNIST数字分類    | 画像   | 0.95753  | 1.00000  | Unranked/988   |
+| 04   | MNIST(自習)    | 画像   | Nan   | Nan   | Nan   | Nan   |
+| 05   | EMNIST(自習)    | 画像   | Nan   | Nan   | Nan   | Nan   |
