@@ -1,5 +1,5 @@
 ## タイタニック生存者予測
 |  No. | タイトル | 説明 |
 |------|-----|---|
-| 01   | 01-Titanic_tuorial   | 書籍のコード   |
+| 01   | 01_Titanic_tuorial   | 書籍のコード   |
 | 02   | 02_Titanic_my_arrange    | 01をアレンジ   |
