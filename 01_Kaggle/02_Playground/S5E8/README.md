@@ -1,4 +1,4 @@
-### 【S5E8 チュートリアル】
+### 【S5E8 Binary Classification with a Bank Dataset】
 |  No. | タイトル | CV | Public LB | Private LB | 内容 |
 |---|---|---|---|---|---|
 | 00 | 00-S5E8-Baseline | --- | --- | --- | LGBM, XGB, CBベース |
