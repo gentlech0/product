@@ -1,8 +1,8 @@
 ### 【S5E8 チュートリアル】
-|  No. | タイトル | VAL | Public LB | Private LB | 内容 |
+|  No. | タイトル | CV | Public LB | Private LB | 内容 |
 |---|---|---|---|---|---|
 | 00 | 00-S5E8-Baseline | --- | --- | --- | LGBM, XGB, CBベース |
-| 01 | 01-S5E8-Baseline | 0.967/0.967/0.965 | --- | --- | CV追加。NNモデル追加 |
+| 01 | 01-S5E8-Baseline | 0.967 | --- | --- | CV追加。NNモデル追加 |
 | 02 | 02-S5E8-Baseline | --- | 0.96894 | 0.96861 | NNモデル動作確認まで |
 | 03 | 03-S5E8-Breakthrough | 0.97118 | 0.97233 | 0.97194 | 特徴量追加 & 決定木Stacking |
 | 04 | 04_1_S5E8_NNBlend | 0.97112 | 0.96097 | 0.96068 | NN追加Stacking |
