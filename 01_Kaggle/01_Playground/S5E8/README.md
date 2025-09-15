@@ -1,0 +1,18 @@
+### 【S5E8 Binary Classification with a Bank Dataset】
+|  No. | タイトル | CV | Public LB | Private LB | 内容 |
+|---|---|---|---|---|---|
+| 00 | 00-S5E8-Baseline | --- | --- | --- | LGBM, XGB, CBベース |
+| 01 | 01-S5E8-Baseline | --- | --- | --- | CV追加。NNモデル追加 |
+| 02 | 02-S5E8-Baseline | --- | 0.96894 | 0.96861 | NNモデル動作確認まで |
+| 03 | 03-S5E8-Breakthrough | 0.97118 | 0.97233 | 0.97194 | 特徴量追加 & 決定木Stacking |
+| 04 | 04_1_S5E8_NNBlend | 0.97112 | 0.96097 | 0.96068 | NN追加Stacking |
+| 04 | 04_2_S5E8_NNBlend | --- | --- | --- | NN編集 |
+| 05 | 05_1_S5E8_Optimize | 0.97162 | 0.97204 | 0.97163 | パラメータ調整 |
+| 05 | 05_2_S5E8_Optimize | --- | --- | --- | パラメータ調整 |
+| 06 | 06_S5E8_Optuna | --- | --- | --- | Optuna環境の構築 |
+| 07 | 07_S5E8_XGB_TE | 0.97531 | 0.97670 | 0.97631 | XGBoostターゲットエンコード |
+| 08 | 08_S5E8_LGBM_TE | 0.97493 | 0.97575 | 0.97535 | LGMBターゲットエンコード |
+| 09 | 09_S5E8_TE_Stacking | 0.97562 | 0.97664 | 0.97625 | XGB + LGBM Stacking |
+| 10 | 10_S5E8-Final-Edition | 0.97615 | 0.97704 | 0.97663 | 09をチューニング(最終)  |
+| 11 | 11-S5E8-Final-Edition_Optuna | --- | --- | --- | Optuna |
+| 99 | 99_S5E8-EDA | --- |--- | --- | EDA |
