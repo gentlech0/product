@@ -13,6 +13,6 @@
 | 07 | 07_S5E8_XGB_TE | 0.97531 | 0.97670 | 0.97631 | XGBoostターゲットエンコード |
 | 08 | 08_S5E8_LGBM_TE | 0.97493 | 0.97575 | 0.97535 | LGMBターゲットエンコード |
 | 09 | 09_S5E8_TE_Stacking | 0.97562 | 0.97664 | 0.97625 | XGB + LGBM Stacking |
-| 10 | 10_S5E8-Final-Edition | 0.97615 | 0.97704 | 0.97663 | 09をチューニング  |
-| 11 | 11-S5E8-Final-Edition_Optuna | --- | --- | --- | XGB + LGBM Stacking |
+| 10 | 10_S5E8-Final-Edition | 0.97615 | 0.97704 | 0.97663 | 09をチューニング(最終)  |
+| 11 | 11-S5E8-Final-Edition_Optuna | --- | --- | --- | Optuna |
 | 99 | 99_S5E8-EDA | --- |--- | --- | EDA |
